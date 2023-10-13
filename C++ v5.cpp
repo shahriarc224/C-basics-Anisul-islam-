@@ -1,4 +1,6 @@
-#include<iostream>
+//The use of \n,\t and endl.....
+
+include<iostream>
 #include<conio.h>
 using namespace std;
  int main(){
