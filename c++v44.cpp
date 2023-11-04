@@ -1,0 +1,7 @@
+/*
+
+ami ai code pore dido
+
+
+
+*/
