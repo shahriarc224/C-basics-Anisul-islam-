@@ -1,2 +1,2 @@
-/*rif[fsrtuyjfgythfdchvjkdhyuktio[jsthrgbcgvhngmhddfjycghrdthygfghhjkmfsadfujadsfkhaewrftjhgkt,marg]ho-hdfg]h*/
+/*rif[hgkt,marg]ho-hdfg]h*/
 
