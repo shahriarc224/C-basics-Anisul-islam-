@@ -7,6 +7,7 @@ int main()
     int num;
     cout<<"Enter any number:"<<endl;
     cin>>num;
+    
 
 
     if(num>0)
