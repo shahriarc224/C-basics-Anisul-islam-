@@ -1,6 +1,5 @@
 /*how to declare  datattype, initialige it and show its out put */
 
-
 #include<iostream>
 using namespace std ;
 int main(){
