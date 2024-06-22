@@ -1,7 +1,3 @@
 /*
-
-
 code pore dibo 
-
-
 */
