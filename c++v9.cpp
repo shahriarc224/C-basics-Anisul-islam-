@@ -1,4 +1,4 @@
-//Howo to show out put of string
+// How to show out put of string
 
 #include<iostream>
 #include<conio.h>
