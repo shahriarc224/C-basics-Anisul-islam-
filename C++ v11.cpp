@@ -1,5 +1,6 @@
 /*How to use arithmetic operators ......
 the use of +,-,*,/,%........*/
+
 #include<iostream>
 using namespace std;
 int main(){
